@@ -35,7 +35,7 @@ npm run dev
 npm run build
 ```
 ### MAQUETTE
-![](./img/maquette.png)
+![](./dist/img/maquette.png)
 
 
 
