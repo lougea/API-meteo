@@ -39,6 +39,10 @@ npm run build
 ### MAQUETTE
 ![](./dist/img/maquette.png)
 
+### VISUELS
+![](./dist/img/maquette.png)
+![](./dist/img/maquette.png)
+
 
 
 
