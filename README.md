@@ -37,11 +37,6 @@ npm run build
 ### MAQUETTE
 ![](./assets/img/maquette.png)
 
-### MAQUETTE
-![](img/accueil.jpg)
-![](img/sun.jpg)
-![](img/cloud.jpg)
-![](img/light-rain.jpg)
 
 
 
