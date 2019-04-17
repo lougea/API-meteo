@@ -1,27 +1,30 @@
-Application météo
+# Application météo
 
-Collaborator
+***Collaborator*** 
 
-    Reda MRABET
-    Louise BRUNNER
-    Temps nécessaire : 3 jours ouvrables
-    Où : BeCode
-    Quand: 2-4 Avril 2019
-    lien:https://lougea.github.io/API-METEO/dist/index.html
+- [Louise Brunner](https://github.com/lougea)
+- [Reda MRabet](https://github.com/redamrabet)
+- Temps nécessaire : 3 jours ouvrables
+- Où : BeCode 
+- Quand: 2-4 Avril 2019
+- lien:https://lougea.github.io/API-METEO/dist/index.html
 
-Projet
+## Projet
 
 Application Météo créé avec VueJS composé d'un input de recherche pour la ville.
-Langages utilisés
 
-    HTML5&CSS3 (GRID)
-    VueJS
+## Langages utilisés
 
-Distribution de tâches
+- HTML5&CSS3 (GRID)
+- VueJS
+## Distribution de tâches
 
 Reda & Louise : API, Javascript, Build  Design App,Logo, Maquette, Build
 Build Setup
 
+## Build Setup
+
+```
 # install dependencies
 npm install
 
@@ -30,8 +33,16 @@ npm run dev
 
 # build for production with minification
 npm run build
+```
+### MAQUETTE
+![](./assets/img/maquette.png)
 
-Resultat final
+### MAQUETTE
+![](img/accueil.jpg)
+![](img/sun.jpg)
+![](img/cloud.jpg)
+![](img/light-rain.jpg)
 
-MAQUETTE
+
+
 
