@@ -40,8 +40,8 @@ npm run build
 ![](./dist/img/maquette.png)
 
 ### VISUELS
-![](./dist/img/maquette.png)
-![](./dist/img/maquette.png)
+![](./dist/img/visu1.png)
+![](./dist/img/visu2.png)
 
 
 
