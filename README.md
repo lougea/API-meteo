@@ -18,6 +18,9 @@ Application Météo créé avec VueJS composé d'un input de recherche pour la v
 - HTML5&CSS3 (GRID)
 - Bootstrap
 - VueJS
+- MOMENT
+- AXIOS
+- GASAP
 
 ## Distribution de tâches
 
