@@ -20,7 +20,7 @@ Application Météo créé avec VueJS composé d'un input de recherche pour la v
 - VueJS
 - MOMENT
 - AXIOS
-- GASAP
+- GSAP
 
 ## Distribution de tâches
 
