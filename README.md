@@ -3,7 +3,7 @@
 ***Collaborator*** 
 
 - [Louise Brunner](https://github.com/lougea)
-- [Reda MRabet](https://github.com/redamrabet)
+- [Reda M'rabet](https://github.com/redamrabet)
 - Temps nécessaire : 3 jours ouvrables
 - Où : BeCode 
 - Quand: 2-4 Avril 2019
