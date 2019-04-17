@@ -16,7 +16,9 @@ Application Météo créé avec VueJS composé d'un input de recherche pour la v
 ## Langages utilisés
 
 - HTML5&CSS3 (GRID)
+- Bootstrap
 - VueJS
+
 ## Distribution de tâches
 
 Reda & Louise : API, Javascript, Build  Design App,Logo, Maquette, Build
